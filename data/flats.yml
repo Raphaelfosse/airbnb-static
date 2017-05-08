@@ -1,0 +1,46 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+  dogs: false
+romain:
+  owner_name: Romain Paillard
+  picture: card-london.jpeg
+  owner_picture: romain.jpeg
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+  dogs: true
+jacques:
+  owner_name: Jacques Delarue
+  picture: falaise.jpg
+  owner_picture: jacques.png
+  name: Jacques's home
+  summary: Nice house in Normandie
+  city: Dieppe, France
+  wifi: true
+  dogs: true
+jules:
+  owner_name: Jules Chouchan
+  picture: card-brussels.jpeg
+  owner_picture: jules.jpeg
+  name: Jules's home
+  summary: Nice house in Cannes
+  city: Cannes, France
+  wifi: true
+  dogs: false
+agathe:
+  owner_name: Agathe Pastor
+  picture: aixenprovence.jpg
+  owner_picture: agathe.jpg
+  name: Agathe's house
+  summary: Charming house in Aix en Provence
+  city: Aix en provence, France
+  wifi: true
+  dogs: false
+
